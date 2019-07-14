@@ -1,0 +1,7 @@
+name: NekoServer
+main: nekoserver\NekoServerPlugin
+author: 2tf
+version: 0.1
+api: [3.0.0]
+description: "NekoServer Plugin"
+website: "https://github.com/nitf"
